@@ -1,0 +1,6 @@
+.vs
+MMKVParser/bin
+MMKVParser/obj
+MMKVParser.Tests/bin
+MMKVParser.Tests/obj
+TestResults
