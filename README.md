@@ -1,2 +1,2 @@
 # MMKVParser
-C# Implementation of https://github.com/syail/mmkv-parser.git
+C# Implementation of [mmkv-parser](https://github.com/syail/mmkv-parser.git)
